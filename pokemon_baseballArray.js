@@ -5,6 +5,7 @@ var myBaseballRoster = ["MaxScherzer", "MikeTrout", "BryceHarper", "KrisBryant",
 //var secondToBat = "2 " + myBaseballRoster[2];
 //console.log(secondToBat)
 myBaseballRoster.push("JoeyVotto");
+console.log(myBaseballRoster);
 
 
 
