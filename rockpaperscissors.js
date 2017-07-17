@@ -1,5 +1,7 @@
-var marcus = "rock"
-var lena = "scissors"
+//var marcus = "rock"
+//var lena = "scissors"
+
+var marcus = 
 
 if (marcus=="paper"){
     if (lena == "scissors"){

@@ -13,3 +13,5 @@ var myArray = ["bob", "mahdi", "cyril", "juan"];
 for (var i= 0; i<4; i++){
     console.log(myArray[i]);
 }
+
+
