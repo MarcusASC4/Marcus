@@ -3,21 +3,16 @@ function setup(){
     background(200);
    xSpeed = random(-10, 10);
     ySpeed = random(-10, 10);
-    xRect = 5;
+    xRect = random(0, 500);
+    xR=250;
 }
 
 var xRect; 
 var xR; 
 
 function mouseDragged() {
-  xR = xR + xRect;
+  xR
  
- if(xR>=500 && xR>=250){
-     xR=xRect -5;
- }
- else if (xR<=0 && xR<250){
-     xR = xRect + 5; 
- }
 }
 
 
