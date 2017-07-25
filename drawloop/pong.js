@@ -4,14 +4,15 @@ function setup(){
    xSpeed = random(-10, 10);
     ySpeed = random(-10, 10);
     xRect = random(0, 500);
-    xR=250;
+    
 }
 
 var xRect; 
 var xR; 
 
 function mouseDragged() {
-  xR
+
+    xR
  
 }
 
