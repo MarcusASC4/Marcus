@@ -1,0 +1,29 @@
+
+
+  body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    background: white;
+}
+
+.portfolio-item {
+    margin-bottom: 25px;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+.header{
+    background: url("https://static.blog.playstation.com/wp-content/uploads/2016/10/theshow17-featured.jpg"); 
+    background-size: cover; 
+    height: 520px; 
+    color: white;
+    text-align: center; 
+    padding-top: 440px; 
+  
+    
+    
+    }
+.video{
+    
+}
