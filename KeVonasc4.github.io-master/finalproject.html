@@ -1,0 +1,31 @@
+<html>
+    <head>
+
+        <!--Reference platform.js library here-->
+         <script src="https://apis.google.com/js/platform.js" async defer></script>      
+        <!--Reference Client ID in meta tag here-->
+        
+        <meta name="google-signin-client_id" content="769634897684-dsu4lqle22omlioqujntikpj1l6bctvd.apps.googleusercontent.com">
+     <script src="https://www.gstatic.com/firebasejs/4.2.0/firebase.js"></script>
+    <script>
+    // Initialize Firebase
+    var config = {
+        apiKey: "AIzaSyARB397rv3Z0wqXO0zrfymnV1WUB-YEEG0",
+        authDomain: "final-project-58805.firebaseapp.com",
+        databaseURL: "https://final-project-58805.firebaseio.com",
+        projectId: "final-project-58805",
+        storageBucket: "final-project-58805.appspot.com",
+        messagingSenderId: "728636115754"
+    };
+    firebase.initializeApp(config);
+    </script>
+        <script src="finalproject.js"></script>
+
+    </head>
+    <body>
+          <div class="signs">
+        <div class="g-signin2" data-onsuccess="onSignIn"></div>
+        <a href="#" class="signOut" onclick="onSignOut();">Sign out</a>
+    </div>
+    </body>
+</html>

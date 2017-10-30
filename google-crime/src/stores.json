@@ -1,0 +1,266 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9165,
+          40.4799
+          
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "img":"van", 
+        "category": "H",
+        "vandalism": "1",
+        "theft": "0",
+        "assault": "0",
+        "shooting":"0",
+        "name": "Highland Park",
+        "area": "East End"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9797,
+          40.4453
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "H",
+        "img":"theft",
+        "vandalism": "3",
+        "theft": "5",
+        "assault": "2",
+        "shooting":"0",
+        "name": "Hill District",
+        "area": "Central Pittsburgh"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8955,
+          40.4573
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "img":"fist", 
+        "category": "H",
+        "vandalism": "4",
+        "theft": "2",
+        "assault": "10",
+        "shooting":"0",
+        "name": "Homewood",
+        "area": "East End"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9606,
+          40.4676
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "L",
+        "img":"theft",
+        "vandalism": "7",
+        "theft": "18",
+        "assault": "2",
+        "shooting":"0",
+        "name": "Lawrenceville",
+        "area": "East End"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9445,
+          40.4622
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "E",
+        "img":"fist",
+        "vandalism": "1",
+        "theft": "13",
+        "assault": "12",
+        "shooting":"0",
+        "name": "Bloomfield",
+        "area": "East End"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9263,
+          40.4643
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "E",
+        "img":"fist",
+        "vandalism": "3",
+        "theft": "4",
+        "assault": "13",
+        "shooting":"3",
+        "name": "East Liberty",
+        "area": "East End"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0116,
+          40.4277
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "M",
+        "img":"fist",
+        "vandalism": "4",
+        "theft": "9",
+        "assault": "16",
+        "shooting":"0",
+        "name": "Mount Washington",
+        "area": "South Side"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0130,
+          40.4467
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "N",
+        "img":"theft",
+        "vandalism": "2",
+        "theft": "9",
+        "assault": "3",
+        "shooting":"0",
+        "name": "North Shore",
+        "area": "North Side"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.952,
+          40.445
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "O",
+        "img":"theft",
+        "vandalism": "3",
+        "theft": "15",
+        "assault": "11",
+        "shooting":"0",
+        "name": "Oakland",
+        "area": "East End"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9277,
+          40.4556
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "S",
+        "img":"theft",
+        "vandalism": "2",
+        "theft": "13",
+        "assault": "12",
+        "shooting":"0",
+        "name": "Shadyside",
+        "area": "East End"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9277,
+          40.4456
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "E",
+        "img":"theft",
+        "vandalism": "4",
+        "theft": "18",
+        "assault": "17",
+        "shooting":"0",
+        "name": "Squirrel Hill",
+        "area": "East End"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9822,
+          40.4541
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "S",
+        "img":"theft",
+        "vandalism": "6",
+        "theft": "9",
+        "assault": "3",
+        "shooting":"0",
+        "name": "Strip District",
+        "area": "Central/Downtown Pittsburgh"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0116,
+          40.3974
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "category": "B",
+        "img":"theft",
+        "vandalism": "1",
+        "theft": "9",
+        "assault": "1",
+        "shooting":"0",
+        "name": "Brookline",
+        "area": "South Side"
+      }
+    }
+  ]
+}

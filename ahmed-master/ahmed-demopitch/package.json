@@ -1,0 +1,14 @@
+{
+  "name": "ahmed-demopitch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ahmedbrady.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "unirest": "*"
+  },
+  "author": "ahmedbrady",
+  "license": "ISC"
+}
